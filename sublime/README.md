@@ -14,6 +14,9 @@ sublime配置可以通过控制台（`ctrl||cmd + shift + p`打开）来配置�
 |  *Side Bar*      |侧边栏扩展插件，增加了很多实用功能|
 |  *html/css/js pretty*|格式化代码（需要安装node）  |
 |  *File Header*|新建文件自动加相应的头部信息        |
+|  *BracketHighlighter*| 高亮匹配"()""{}""[]""<>"等成对符号 |
+|  *DocBlockr* | 快捷增加注释 |
+|  *EditorConfig* | 识别并应用 .editorconfig 的插件 |
 |  *ColorSublime*|更换不同配色方案的插件|
 |----------------|------------------------------|
 |**主题推荐**||
