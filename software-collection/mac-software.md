@@ -13,6 +13,7 @@
 | **Charles** | 代理工具 |
 | Cheat sheet | 软件快捷键提示工具 |
 | **护眼宝** | 调节屏幕亮度的软件 |
+| screens 4 | 登录远程系统，带有界面 |
 | file zilla | FTP 传输工具 |
 | Color picker | 屏幕取色 |
 | insomniaX | 设置盒盖不睡眠 |
