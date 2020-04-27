@@ -32,9 +32,7 @@
 | WPS | 轻量级 Word、Excel、PPT |
 | Xmind | 思维导图 |
 | Hidden Bar | 隐藏杂乱的 mac 顶部菜单栏 |
-
-
-
- 
-
-
+| picGo | 图床上传工具，支持 github、又拍云、七牛云等图床上传。基于 electron-vue 开发。 |
+| The Unarchiver | 清爽解压工具 |
+| eZip | 清爽压缩&解压工具 |
+| **Xnip** | 强大的截图工具，可以滚动截图 |
