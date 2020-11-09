@@ -28,6 +28,7 @@
 | **licecap** | Gif 录制 |
 | **spectacle** | 应用程序视窗快捷调整 |
 | sequal pro | 数据库连接、查看、修改 |
+| navicat permium | 数据库查看，对象，建模 |
 | 网易邮箱大师 | 收发邮件 |
 | WPS | 轻量级 Word、Excel、PPT |
 | Xmind | 思维导图 |
