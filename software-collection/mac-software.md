@@ -38,3 +38,4 @@
 | eZip | 清爽压缩&解压工具 |
 | **Xnip** | 强大的截图工具，可以滚动截图 |
 |imagine|本地压缩图片工具|
+|[colorslurp](https://colorslurp.com/)|取色器|
